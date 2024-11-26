@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
+https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamroysunny&label=Profile%20views&color=0e75b6&style=flat" alt="iamroysunny" /> </p>
 
 - 🔭 I’m currently working on [Social Media](https://github.com/iamroysunny/SunnyRoy)
