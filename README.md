@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunny Roy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iamroysunny/iamroysunny/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamroysunny&label=Profile%20views&color=0e75b6&style=flat" alt="iamroysunny" /> </p>
 
 - 🔭 I’m currently working on [Social Media](https://github.com/iamroysunny/SunnyRoy)
