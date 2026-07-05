@@ -1,100 +1,178 @@
+---<h1 align="center">Hi 👋, I'm Sunny Roy</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile;Sunny+Roy;Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Creator+of+Job+Portal;Creator+of+Social+Media+Platform;Creator+of+Food+Delivery+Application;Learning+Artificial+Intelligence;Learning+Python;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Sunny%20Roy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Learner&descAlignY=60"/>
+</p>
+
+---
+
+
+# 🚀 About Me
+
+💻 Passionate **Full Stack MERN Developer** with a strong interest in building scalable, modern, and user-friendly web applications.
+
+✨ I love transforming creative ideas into high-quality digital products through clean code, responsive UI, and efficient backend architecture.
+
+🚀 Currently expanding my expertise in **Artificial Intelligence, Python, Docker, Next.js, TypeScript, and Cloud Technologies** while continuously learning new tools and best development practices.
+
+🎯 My goal is to become a highly skilled **Software Engineer** capable of delivering impactful real-world solutions.
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence (AI)
+- 🐍 Python
+- ⚡ Next.js
+- 📚 TypeScript
+- 🐳 Docker
+- ☁️ Cloud Deployment
+- 🔥 REST APIs & Backend Optimization
+- 🚀 System Design Fundamentals
+
+---
+
+# 🚀 Featured Projects
+
+### 💼 Job Portal
+
+A full-stack recruitment platform connecting recruiters and job seekers.
+
+✨ Features
+
+- 👨‍💼 Recruiter Dashboard
+- 👨‍💻 Job Seeker Dashboard
+- 📄 Resume Upload
+- ❤️ Saved Jobs
+- 🔐 JWT Authentication
+- 🔍 Advanced Job Search & Filters
+- 📊 Application Tracking
+- 📱 Fully Responsive Design
+
+---
+
+### 📱 Social Media Platform
+
+A modern social networking application with interactive user features.
+
+✨ Features
+
+- 🔐 Authentication & Authorization
+- 📝 Create, Edit & Delete Posts
+- ❤️ Likes & Comments
+- 👤 User Profiles
+- 📷 Image Upload
+- 🌙 Responsive UI
+
+---
+
+### 🍔 Food Delivery Application
+
+A complete online food ordering system with seamless ordering experience.
+
+✨ Features
+
+- 🍕 Browse Foods
+- 🛒 Shopping Cart
+- 💳 Checkout System
+- 📦 Order Management
+- 📱 Mobile Friendly
+- ⚡ Fast User Experience
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern developer portfolio showcasing projects, skills, and achievements.
+
+✨ Features
+
+- 🎨 Modern Responsive Design
+- 🚀 Featured Projects
+- 💻 Skills & Technologies
+- 📄 Resume Download
+- 📬 Contact Section
+- 🌙 Clean & Elegant UI
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+
+### 🗄 Database
+
+- MongoDB
+- Mongoose
+
+### 💻 Programming Languages
+
+- JavaScript
+- Python
+- TypeScript
+
+### 🛠 Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Docker
+- Vercel
+- Netlify
+- Render
+
+---
+
+# 📊 GitHub Stats
+
+💡 Here you'll find an overview of my GitHub activity, including commits, repositories, language usage, and contribution statistics.
+
+---
+
+# 🏆 GitHub Trophies
+
+🏅 A collection of GitHub achievements earned through continuous learning, open-source contributions, and active development.
+
+---
+
+# 📈 Contribution Graph
+
+📅 My contribution graph reflects my commitment to learning, building projects, and maintaining consistent coding activity.
+
 ---
 
 # 🌍 Connect With Me
 
-<p align="center">
-<a href="https://github.com/iamroysunny">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+💬 I'm always open to collaborating on exciting projects, discussing new technologies, or exploring innovative ideas.
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+📫 Feel free to connect with me through:
 
-<a href="mailto:YOUREMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+- 💼 LinkedIn
+- 📧 Email
+- 🐙 GitHub
+- 📸 Instagram
+- 💬 Facebook
 
-<a href="https://instagram.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://x.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</p>
+Let's build something amazing together! 🚀✨
 
 ---
-
-# ⚡ Coding Time
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamroysunny&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamroysunny&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamroysunny&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamroysunny&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamroysunny&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/iamroysunny/iamroysunny/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ☕ Fun Zone
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-## 🚀 Code • Learn • Build • Repeat
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:00C2FF"/>
-
-</div>
