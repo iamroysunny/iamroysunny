@@ -1,24 +1,28 @@
 <p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sunny%20Roy&fontAlign=50&fontAlignY=38&fontSize=55&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20•%20AI%20Learner&descAlignY=60&animation=fadeIn"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Sunny%20Roy&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20MERN%20Developer%20|%20Software%20Engineer&descAlignY=60"/>
+<h1 align="center">
+Hi 👋 I'm Sunny Roy
+</h1>
+
+<h3 align="center">
+💻 Full Stack MERN Developer • 🚀 Software Engineer • 🇮🇳 India
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Passionate+MERN+Developer;AI+%7C+Python+%7C+Next.js;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile+🚀"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sunny+Roy;Full+Stack+MERN+Developer;Software+Engineer;AI+%7C+Python+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/iamroysunny">
-<img src="https://img.shields.io/github/followers/iamroysunny?label=Followers&style=for-the-badge&color=blue"/>
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=iamroysunny&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/iamroysunny?style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/followers/iamroysunny?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/iamroysunny?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
@@ -26,151 +30,76 @@
 
 ---
 
-# 👋 Hello World!
-
-```javascript
-const SunnyRoy = {
-    name: "Sunny Roy",
-    location: "Kolkata, India 🇮🇳",
-    role: "Full Stack MERN Developer",
-    education: "MBA (Information Technology)",
-    currentlyLearning: [
-        "Artificial Intelligence",
-        "Python",
-        "Next.js",
-        "Docker",
-        "TypeScript",
-        "Cloud"
-    ],
-    hobbies: [
-        "Coding",
-        "Voice Over",
-        "Learning",
-        "Building Products"
-    ],
-
-    lifePhilosophy:
-        "Code • Learn • Build • Repeat 🚀"
-};
-
-console.log("Welcome to my GitHub Profile ❤️");
-```
-
----
-
 # 💭 Developer Quote
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> — Harold Abelson
 
-> **"Success doesn't come from writing thousands of lines of code. It comes from writing the right line at the right time."** 🚀
+> **"Code. Learn. Build. Repeat."** 🚀
 
 ---
 
 # 🚀 About Me
 
-💻 Passionate **Full Stack MERN Developer** dedicated to building scalable and modern web applications.
+💻 Passionate **Full Stack MERN Developer** from **Kolkata, India**.
 
-✨ I enjoy transforming ideas into production-ready applications using clean architecture and elegant UI.
+✨ I enjoy transforming ideas into modern, scalable, and production-ready web applications.
 
-🚀 Currently exploring
+🎯 My goal is to become a highly skilled Software Engineer by continuously learning and building impactful products.
 
-- Artificial Intelligence
-- Python
-- Docker
-- Next.js
-- TypeScript
-- Cloud Technologies
-
-🎯 Goal
-
-Become a world-class Software Engineer and contribute to impactful real-world products.
+🔥 I love solving real-world problems with technology.
 
 ---
 
 # 🌱 Currently Learning
 
-<table>
-
-<tr>
-<td>🤖 Artificial Intelligence</td>
-<td>████████░░ 80%</td>
-</tr>
-
-<tr>
-<td>🐍 Python</td>
-<td>███████░░░ 70%</td>
-</tr>
-
-<tr>
-<td>⚡ Next.js</td>
-<td>██████░░░░ 65%</td>
-</tr>
-
-<tr>
-<td>📚 TypeScript</td>
-<td>█████░░░░░ 55%</td>
-</tr>
-
-<tr>
-<td>🐳 Docker</td>
-<td>█████░░░░░ 50%</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud</td>
-<td>████░░░░░░ 40%</td>
-</tr>
-
-</table>
+- 🤖 Artificial Intelligence
+- 🐍 Python
+- ⚡ Next.js
+- 📘 TypeScript
+- 🐳 Docker
+- ☁️ Cloud Computing
+- 🧠 System Design
 
 ---
 
 # 💻 Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite"/>
 
 </p>
 
----
+## Backend
 
-## ⚙ Backend
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 </p>
 
----
+## Database
 
-## 🗄 Database
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
----
+## Languages
 
-## 💻 Programming Languages
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python"/>
 
 </p>
 
----
+## Tools
 
-## 🛠 Tools
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify"/>
 
@@ -178,69 +107,94 @@ Become a world-class Software Engineer and contribute to impactful real-world pr
 
 ---
 
-# ❤️ What I Love
+# ✨ What I Do
 
-✔ Building Real World Applications
+✔ Build Full Stack MERN Applications
 
-✔ Solving Complex Problems
+✔ Develop REST APIs
 
-✔ Learning New Technologies
+✔ Create Responsive UI
 
-✔ Open Source Contribution
+✔ Database Design
 
-✔ Clean UI & UX
-
-✔ Backend Development
+✔ Authentication & Security
 
 ✔ Performance Optimization
 
-✔ Writing Clean Code
+✔ Continuous Learning
 
 ---
 
 # ⚡ Fun Fact
 
-> 💡 **"I don't just write code. I build experiences."**
-
----
+# 🚀 Featured Projects
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamroysunny&theme=github_dark"/>
+<a href="https://github.com/iamroysunny/Job-Portal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamroysunny&repo=Job-Portal&theme=tokyonight&hide_border=true"/>
+</a>
 
-# 🚀 Featured Projects
+<a href="https://github.com/iamroysunny/Social-Media">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamroysunny&repo=Social-Media&theme=tokyonight&hide_border=true"/>
+</a>
 
-<table>
-<tr>
+</p>
 
-<td width="50%">
+<p align="center">
 
-## 💼 Job Portal
+<a href="https://github.com/iamroysunny/Food-Delivery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamroysunny&repo=Food-Delivery&theme=tokyonight&hide_border=true"/>
+</a>
 
-A complete Full Stack MERN recruitment platform connecting recruiters and job seekers.
+<a href="https://github.com/iamroysunny/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamroysunny&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Job Portal
+
+> 🚀 A complete Full Stack MERN Recruitment Platform.
 
 ### ✨ Features
 
 - 👨‍💼 Recruiter Dashboard
 - 👨‍💻 Job Seeker Dashboard
 - 📄 Resume Upload
-- ❤️ Saved Jobs
-- 🔍 Advanced Job Search
-- 📊 Application Tracking
+- ❤️ Save Jobs
 - 🔐 JWT Authentication
-- 📱 Responsive UI
+- 🔍 Advanced Search & Filters
+- 📊 Application Tracking
+- 📱 Fully Responsive Design
 
 ### 🛠 Tech Stack
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+<p>
 
-</td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
 
-<td width="50%">
+</p>
 
-## 📱 Social Media Platform
+<p>
 
-Modern social networking application inspired by today's social platforms.
+<a href="https://github.com/iamroysunny/Job-Portal">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📱 Social Media Platform
+
+> Modern social networking platform inspired by Facebook & Instagram.
 
 ### ✨ Features
 
@@ -248,24 +202,37 @@ Modern social networking application inspired by today's social platforms.
 - 📝 Create Posts
 - ❤️ Like & Comment
 - 👤 User Profiles
-- 📷 Image Upload
-- 🌙 Responsive Design
+- 📷 Upload Images
+- 🌙 Responsive UI
 
 ### 🛠 Tech Stack
 
-`React` `Express` `MongoDB` `JWT`
+<p>
 
-</td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
-</tr>
+</p>
 
-<tr>
+<p>
 
-<td>
+<a href="https://github.com/iamroysunny/Social-Media">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
-## 🍔 Food Delivery App
+</a>
 
-Modern online food ordering system.
+<a href="#">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify"/>
+
+</a>
+
+</p>
+
+---
+
+# 🍔 Food Delivery Application
+
+> Fast, secure and responsive online food ordering platform.
 
 ### ✨ Features
 
@@ -273,44 +240,101 @@ Modern online food ordering system.
 - 🛒 Shopping Cart
 - 💳 Checkout
 - 📦 Order Tracking
+- ⭐ Ratings
 - ❤️ Wishlist
-- 📱 Mobile Friendly
 
 ### 🛠 Tech Stack
 
-`React`
-`Node.js`
-`MongoDB`
+<p>
 
-</td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
-<td>
+</p>
 
-## 🌐 Personal Portfolio
+<p>
 
-Professional developer portfolio.
+<a href="https://github.com/iamroysunny/Food-Delivery">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
+
+---
+
+# 🌐 Personal Portfolio
+
+> My personal portfolio showcasing projects, skills and experience.
 
 ### ✨ Features
 
-- 🎨 Modern Design
-- 🚀 Responsive Layout
+- 🎨 Modern UI
+- 📱 Responsive Design
 - 📄 Resume
 - 📬 Contact Form
-- 🌙 Dark Mode
+- ⚡ Fast Performance
 
 ### 🛠 Tech Stack
 
-`React`
-`Tailwind`
-`Vite`
+<p>
 
-</td>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 
-</tr>
+</p>
 
-</table>
+<p>
+
+<a href="https://github.com/iamroysunny/Portfolio">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
 
 ---
+
+# 📌 Current Goals
+
+🎯 Master Artificial Intelligence
+
+🎯 Become Advanced Python Developer
+
+🎯 Learn AWS Cloud
+
+🎯 Master Docker & Kubernetes
+
+🎯 Improve System Design
+
+🎯 Contribute More to Open Source
+
+🎯 Build SaaS Products
+
+🎯 Become Software Engineer
+
+---
+
+# 🌟 Motto
+
+> **"Dream Big. Build Bigger. Never Stop Learning."** 🚀
+
+---
+
+> 💙 I believe every project is an opportunity to learn something new.
+
 
 # 📊 GitHub Analytics
 
@@ -323,10 +347,6 @@ src="https://github-readme-stats.vercel.app/api?username=iamroysunny&show_icons=
 src="https://github-readme-streak-stats.herokuapp.com/?user=iamroysunny&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 💻 Most Used Languages
 
 <p align="center">
 
@@ -341,108 +361,43 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamroysunny&
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=iamroysunny&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamroysunny&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=iamroysunny&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamroysunny&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📅 Contribution Calendar
+# 📈 Profile Summary
 
 <p align="center">
 
-<img
-src="https://ghchart.rshah.org/00bfff/iamroysunny"
-alt="GitHub Contribution Chart"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamroysunny&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 💡 Coding Journey
+# 🐍 Contribution Snake
 
-```text
-2022 ▓▓▓░░░░░░░ Started Programming
-
-2023 ▓▓▓▓▓▓░░░░ Learned MERN Stack
-
-2024 ▓▓▓▓▓▓▓▓░░ Built Full Stack Projects
-
-2025 ▓▓▓▓▓▓▓▓▓▓ Advanced MERN Development
-
-2026 ▓▓▓▓▓▓▓▓▓▓ AI • Python • Next.js • Docker
-```
-
----
-
-# 🚀 Current Focus
-
-✅ Full Stack Development
-
-✅ AI & Machine Learning
-
-✅ Python
-
-✅ Next.js
-
-✅ Docker
-
-✅ Cloud Deployment
-
-✅ REST APIs
-
-✅ System Design
-
----
-
-# ❤️ Favorite Technologies
+> **Enable GitHub Actions to generate this animation automatically.**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express,python,docker,git"/>
+<img src="https://raw.githubusercontent.com/iamroysunny/iamroysunny/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
-
-# 📌 Goals for 2026
-
-- 🚀 Master Artificial Intelligence
-- 🐍 Become Advanced Python Developer
-- ☁️ Learn AWS & Cloud
-- 🧠 Improve System Design
-- 🌍 Contribute to Open Source
-- 💼 Land a Software Engineer Role
-- 📚 Learn New Technologies Every Month
-- ⚡ Build More Scalable Products
-
----
-
-# 🌟 Motto
-
-> **"Dream Big. Start Small. Build Daily."**
-
-> **"Consistency beats perfection."** 🚀
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamroysunny&theme=github_dark"/>
-
-</p>
 
 # 🌍 Connect With Me
 
@@ -460,6 +415,10 @@ alt="GitHub Contribution Chart"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="YOUR_FACEBOOK">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
@@ -472,7 +431,7 @@ alt="GitHub Contribution Chart"/>
 
 ---
 
-# 💬 Random Developer Quote
+# 💬 Random Dev Quote
 
 <p align="center">
 
@@ -482,109 +441,268 @@ alt="GitHub Contribution Chart"/>
 
 ---
 
-# ☕ Support My Work
+# ❤️ Support My Work
 
 <p align="center">
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ If you enjoy my projects, consider starring my repositories.
 
-Your support motivates me to build more amazing projects for the community ❤️
+Your support motivates me to keep building awesome open-source projects.
 
 </p>
 
 ---
 
-# 📈 Profile Summary
+# 💻 Developer Philosophy
 
-<p align="center">
+> **"Programming isn't about typing code, it's about solving problems."**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamroysunny&theme=github_dark"/>
+> **"Keep Learning • Keep Building • Keep Growing 🚀"**
 
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamroysunny&theme=github_dark&utcOffset=5.5"/>
-
-</p>
+> **"Small improvements every day lead to remarkable results."**
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 2026 Goals
 
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/iamroysunny/iamroysunny/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Developer Philosophy
-
-> **"Programming isn't about typing code. It's about solving problems."**
-
-> **"Every bug teaches something. Every project makes you better."**
-
-> **"Stay curious. Stay consistent. Never stop learning."**
-
----
-
-# 🎯 2026 Roadmap
-
-- 🤖 Master Artificial Intelligence
-- 🐍 Advanced Python Development
-- ⚛️ Become Expert in Next.js
-- ☁️ Learn AWS & Cloud
+- 🤖 Artificial Intelligence
+- 🐍 Advanced Python
+- ☁️ AWS Cloud
 - 🐳 Docker & Kubernetes
+- ⚡ Next.js
 - 🧠 System Design
-- 📱 React Native
-- 🌍 Open Source Contributions
-- 💼 Software Engineer at Top Tech Company
+- 🌍 Open Source
+- 💼 Software Engineer
 
 ---
 
-# 📊 Coding Activity
+# 💖 Thanks For Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Awesome!"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</p>
+
+# 🧠 Currently Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nextjs,docker,typescript,aws,firebase"/>
+
+</p>
+
+<table align="center">
+<tr>
+<td>🤖 Artificial Intelligence</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+
+<tr>
+<td>⚡ Next.js</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+
+<tr>
+<td>☁️ Cloud Computing</td>
+<td>⭐⭐⭐☆☆</td>
+</tr>
+
+<tr>
+<td>🐳 Docker</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+
+<tr>
+<td>📚 TypeScript</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
 
 ```text
-JavaScript     ████████████████████ 95%
+💻 Full Stack MERN Developer
 
-React.js       ███████████████████ 90%
+🚀 Building Scalable Web Applications
 
-Node.js        ██████████████████ 88%
+🌐 REST API Development
 
-MongoDB        █████████████████ 85%
+📱 Responsive UI Design
 
-Python         ███████████████ 75%
+🗄 MongoDB Database Design
 
-Next.js        ██████████████ 70%
+🔐 Authentication & Security
 
-Docker         ███████████ 60%
+⚡ Performance Optimization
 ```
 
 ---
 
-# 💖 Thanks for Visiting
+# 🏅 Achievements
+
+🏆 Full Stack MERN Projects
+
+🏆 Modern Responsive Websites
+
+🏆 REST API Development
+
+🏆 Authentication Systems
+
+🏆 MongoDB Database Design
+
+🏆 Continuous Learning
+
+🏆 Open Source Enthusiast
+
+---
+
+# 📚 Learning Roadmap
+
+✅ JavaScript
+
+✅ React.js
+
+✅ Node.js
+
+✅ Express.js
+
+✅ MongoDB
+
+✅ REST APIs
+
+🔄 Python
+
+🔄 Artificial Intelligence
+
+🔄 Docker
+
+🔄 AWS
+
+🔄 Kubernetes
+
+---
+
+# ⚡ Daily Routine
+
+```text
+☕ Coffee
+
+↓
+
+💻 Coding
+
+↓
+
+📖 Learning
+
+↓
+
+🚀 Building Projects
+
+↓
+
+🐞 Fixing Bugs
+
+↓
+
+😴 Sleep
+
+↓
+
+🔁 Repeat
+```
+
+---
+
+# ❤️ Open Source
+
+I love contributing to Open Source and building projects that help developers and solve real-world problems.
+
+If you like my repositories, don't forget to ⭐ Star them.
+
+---
+
+# 🌟 Fun Quote
+
+> "The best error message is the one that never shows up."
+
+> "Learning never exhausts the mind."
+
+> "Code with passion. Build with purpose."
+
+---
+
+# 🤝 Let's Collaborate
+
+🚀 Open Source
+
+💻 Full Stack Projects
+
+🤖 AI Projects
+
+🌍 Freelance Work
+
+📱 Startup Ideas
+
+---
+
+# ☕ Buy Me A Coffee
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+My+Profile!;Have+A+Great+Day!;Happy+Coding!+🚀"/>
+<a href="https://buymeacoffee.com/YOURUSERNAME">
+
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+
+</a>
 
 </p>
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=iamroysunny&style=for-the-badge&color=blue"/>
 
 </p>
 
+---
 
+# 💙 Thanks For Visiting
 
+<h2 align="center">
+
+⭐ If you like my work,
+
+Consider Following Me ❤️
+
+</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting!;Happy+Coding!;See+You+Again!+🚀;Have+A+Great+Day!"/>
 
 </p>
 
-<!-- PART 1 END -->
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00C9FF,100:92FE9D"/>
+
+</p>
