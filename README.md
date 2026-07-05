@@ -1,10 +1,13 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile;Sunny+Roy;Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Creator+of+Job+Portal;Creator+of+Social+Media+Platform;Creator+of+Food+Delivery+Application;Learning+Artificial+Intelligence;Learning+Python;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sunny%20Roy&fontAlign=50&fontAlignY=38&fontSize=55&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20•%20AI%20Learner&descAlignY=60&animation=fadeIn"/
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile;Sunny+Roy;Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Creator+of+Job+Portal;Creator+of+Social+Media+Platform;Creator+of+Food+Delivery+Application;Learning+Artificial+Intelligence;Learning+Python;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">
 Hi 👋 I'm Sunny Roy
